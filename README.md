@@ -26,3 +26,10 @@ Defina quais veículos estrão disponíveis para esta ação e quanto cada um va
 
 ![Screenshot_9](https://github.com/SylvioLeonZanotti/Harry_Missoes/assets/123652053/b440f130-7ee9-43fc-8ca7-197e5cc121bb)
 
+# Fuja da polícia
+
+Para que sua missão esteja completa é preciso fugir da polícia enquanto seu rastreador não foi desligado, para isso será preciso que seja bom de volante pois os policiais terão sua localização exata em tempo real enquanto o rastreador estiver ativo.
+
+![Screenshot_10](https://github.com/SylvioLeonZanotti/Harry_Missoes/assets/123652053/fed944fe-e3e5-43d2-b33f-d7b771e25c4a)
+
+
