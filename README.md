@@ -7,3 +7,10 @@ Este script leva mais ações para cidades de Five M, criando pontos na cidade o
 ![Screenshot_6](https://github.com/SylvioLeonZanotti/Harry_Missoes/assets/123652053/1aa35523-91cb-4e37-906a-b641db2e9065)
 
 Cada ponto da cidade conta com um veículo que varia para que cada um tenha um valor de roubo.
+
+# Possibilidades  
+
+Através do Config é possível determinar onde o veículo estará disponível para ser roubado e onde será o ponto de encontro para vendê-lo para facções criminosas da cidade. 
+
+![Screenshot_7](https://github.com/SylvioLeonZanotti/Harry_Missoes/assets/123652053/defa77f1-adea-4df2-baf7-16b17ede620f)
+
