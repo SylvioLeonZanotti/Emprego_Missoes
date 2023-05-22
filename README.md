@@ -19,3 +19,10 @@ Através do Config é possível determinar onde o veículo estará disponível p
 Como todo script que produzimos deixamos um leque de opções para o cliente personalizar, são várias opções como permissões, blips e muito mais.
 
 ![Screenshot_8](https://github.com/SylvioLeonZanotti/Harry_Missoes/assets/123652053/65c903c5-c399-4a3c-ba55-9b6958f1dd25)
+
+# Veículos e valores
+
+Defina quais veículos estrão disponíveis para esta ação e quanto cada um vale no mercado ilegal.
+
+![Screenshot_9](https://github.com/SylvioLeonZanotti/Harry_Missoes/assets/123652053/b440f130-7ee9-43fc-8ca7-197e5cc121bb)
+
