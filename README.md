@@ -34,4 +34,4 @@ Para que sua missão esteja completa é preciso fugir da polícia enquanto seu r
 
 Após o tempo para desativar o rastreador o player receberá a informação do local onde deve levar o veículo para ser vendido e desmontado.
 
-![Screenshot_10](https://github.com/SylvioLeonZanotti/Harry_Missoes/assets/123652053/fed944fe-e3e5-43d2-b33f-d7b771e25c4a)
+![Screenshot_11](https://github.com/SylvioLeonZanotti/Harry_Missoes/assets/123652053/0fe373c5-2054-47f4-9757-fa386636e77a)
