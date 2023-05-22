@@ -14,3 +14,8 @@ Através do Config é possível determinar onde o veículo estará disponível p
 
 ![Screenshot_7](https://github.com/SylvioLeonZanotti/Harry_Missoes/assets/123652053/defa77f1-adea-4df2-baf7-16b17ede620f)
 
+#Personalização 
+
+Como todo script que produzimos deixamos um leque de opções para o cliente personalizar, são várias opções como permissões, blips e muito mais.
+
+![Screenshot_8](https://github.com/SylvioLeonZanotti/Harry_Missoes/assets/123652053/65c903c5-c399-4a3c-ba55-9b6958f1dd25)
